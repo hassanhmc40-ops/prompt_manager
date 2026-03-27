@@ -1,4 +1,4 @@
-create database prompt_manager;
+create database prompt_managger;
 use prompt_manager;
 CREATE TABLE users (
     id          INT AUTO_INCREMENT PRIMARY KEY,
